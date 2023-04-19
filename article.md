@@ -354,7 +354,7 @@ and/or vibration feedback on the gloves.
 | Point Down         |                                                 |
 +--------------------+-------------------------------------------------+
 
-: Ode to My Frayed Nerves Gesture assignment and device feedback in *Glover* (for
+: Gesture assignment and device feedback in *Glover* (for
 *MiMu*).
 
 The overarching filter is automated with several steps in the steepness
