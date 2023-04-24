@@ -383,7 +383,7 @@ immerse themselves in the sound.
 
 # Theatre versus "Real Life"  {#theatre-versus-real-life .First-Level-Headings}
 
-![Still taken from the installation and performance version of this work. A fixed video was manipulated by the amplitude of the audio. Visual effects are generated in Max by performing an absolute difference function on the original video and using `jit.sprinkle`, recolouring the particles displaced by `jit.sprinkle`, and finally mixing the output with the fixed media.](media/otmfn-screenshot.png)
+![Still taken from the installation and performance version of this work. A fixed video was manipulated by the amplitude of the audio. Visual effects are generated in Max by performing an absolute difference function on the original video and using `jit.sprinkle`, recolouring the particles displaced by `jit.sprinkle`, and finally mixing the output with the fixed media.](media/otmfn-screenshot.jpg)
 
 Thembi Soddell (2019) notes that trauma is felt well after the event is
 in the past, often without a direct connection to the initial event.
