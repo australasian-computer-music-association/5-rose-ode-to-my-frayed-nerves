@@ -161,9 +161,7 @@ crew to strap in with.
 
 ## Make It Sound {#make-it-sound .Second-Level-Headings}
 
-To view the installation version of this work, rehearsal footage, and the video cue-based score please see this DOI: [10.5281/zenodo.7856220](https://doi.org/10.5281/zenodo.7856220)
-
-This piece uses the technologically mediated female voice and extended
+*Ode to My Frayed Nerves*[^1] (Rose, 2022) uses the technologically mediated female voice and extended
 vocal techniques drawn from contemporary, experimental, and non-Western
 influences and manipulate my voice with a glove-based gestural control
 interface (MiMu). This piece can be performed by other singers, however,
@@ -183,6 +181,8 @@ practicality and symbolism. For example, the fist gesture grabs a sound
 and horizontal arm movements change its position in the sonic
 environment. This draws on the well understood concept of grabbing and
 moving something with one's hand.
+
+[^1]: The installation version of this work, rehearsal footage, and the video cue-based score can be viewed at <https://doi.org/10.5281/zenodo.7856220>
 
 The piece aims to reflect the current physical situation of my hand
 injury and intends to convey a simplified version of the journey from
