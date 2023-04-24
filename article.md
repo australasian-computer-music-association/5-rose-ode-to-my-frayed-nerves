@@ -3,10 +3,11 @@ title: 'Ode to My Frayed Nerves: Exploring Physical Trauma through Gestural
 Control'
 author: 
     - name: Sophie Rose
-      affiliation: Australian Institute of Music and University of Melbourne
+      affiliation: Australian Institute of Music and The University of Melbourne 
       city: Melbourne
       country: Australia
-      email: iceadj@gmail.com
+      email: heartbeatmusiccollective@gmail.com
+      orcid: 0009-0007-6054-8915
 author-header: S. Rose
 abstract: |
   Ode to My Frayed Nerves is a composition for technology, extended vocal
@@ -46,7 +47,7 @@ keywords: 'embodiment; gestural control; technologically mediated voice; extende
 
 # Introduction  {#introduction .First-Level-Headings}
 
-*Ode to My Frayed Nerves* is a composition for technology, extended
+*Ode to My Frayed Nerves* (Rose, 2022) is a composition for technology, extended
 vocal techniques such as overtone singing and growling, and gesture. The
 work sonically explores the sensations that occur in my left hand due to
 a physical trauma. This paper discusses how these sensations are
@@ -160,16 +161,7 @@ crew to strap in with.
 
 ## Make It Sound {#make-it-sound .Second-Level-Headings}
 
-*An audio-visual recording is set to be filmed in February 2023. This
-audio has been bounced as an audio only experience and does not
-completely represent the live version. Please follow the link for a
-stereo or surround version of this piece:*
-
-Stereo bounce:
-<https://drive.google.com/file/d/1FH-GCqk6QCR6ePWUtF3p0570Gew6NuDs/view?usp=sharing>
-
-Surround bounce:
-<https://drive.google.com/file/d/1CofF9JBd4bZqKdW3imedaPvoi4zzyYwb/view?usp=sharing>
+To view the installation version of this work, rehearsal footage, and the video cue-based score please see this DOI: [10.5281/zenodo.7856220](https://doi.org/10.5281/zenodo.7856220)
 
 This piece uses the technologically mediated female voice and extended
 vocal techniques drawn from contemporary, experimental, and non-Western
@@ -357,6 +349,8 @@ and/or vibration feedback on the gloves.
 : Gesture assignment and device feedback in *Glover* (for
 *MiMu*).
 
+![Example of EQ automation](media/otmfn-eq-automation.png)
+
 The overarching filter is automated with several steps in the steepness
 of the curve going from a low pass filter from 200Hz to 20,000Hz. There
 are seven scenes, and so fourteen possible loops. The loops pair in
@@ -388,6 +382,8 @@ choreographed and improvised sections, to allow the performer freedom to
 immerse themselves in the sound.
 
 # Theatre versus "Real Life"  {#theatre-versus-real-life .First-Level-Headings}
+
+![Still taken from the installation and performance version of this work. A fixed video was manipulated by the amplitude of the audio. Visual effects are generated in Max by performing an absolute difference function on the original video and using `jit.sprinkle`, recolouring the particles displaced by `jit.sprinkle`, and finally mixing the output with the fixed media.](media/otmfn-screenshot.png)
 
 Thembi Soddell (2019) notes that trauma is felt well after the event is
 in the past, often without a direct connection to the initial event.
@@ -676,6 +672,8 @@ Payne, P., Levine, P. A., \& Crane-Godreau, M. A. (2015). Somatic
 experiencing: Using interoception and proprioception as core elements of
 trauma therapy. *Frontiers in Psychology*, *6*.
 <https://doi.org/10.3389/fpsyg.2015.00093>
+
+Rose, S. (2022). Ode to My Frayed Nerves (installation, score, and rehearsal footage). Zenodo. <https://doi.org/10.5281/zenodo.7856220>
 
 Schön, D. A. (1983). *The Reflective Practitioner: How Professionals
 Think in Action*. Routledge. <https://doi.org/10.4324/9781315237473>
