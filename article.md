@@ -14,7 +14,7 @@ abstract: |
   techniques such as overtone singing and growling, and gesture. The work
   sonically explores the sensations that occur in my left hand due to a
   physical trauma. This paper discusses how these sensations are realised
-  sonically, implementation of the MiMu system (MI.MU Gloves Ltd, 2010)
+  sonically, implementation of the *MiMu* system (MI.MU Gloves Ltd, 2010)
   and accompanying performance gestures, and how it has shaped the
   creative output and immersion in the activity and sound environment. The
   piece explores how a physical trauma may be expressed through an
@@ -164,7 +164,7 @@ crew to strap in with.
 *Ode to My Frayed Nerves*[^1] (Rose, 2022) uses the technologically mediated female voice and extended
 vocal techniques drawn from contemporary, experimental, and non-Western
 influences and manipulate my voice with a glove-based gestural control
-interface (MiMu). This piece can be performed by other singers, however,
+interface (*MiMu*). This piece can be performed by other singers, however,
 due to the inaccessibility and inflexible sizing of gesture-based
 wearable controllers, I am the sole performer currently. Gesture data is
 fed through proprietary software called *Glover* (MI.MU Gloves Ltd,
@@ -287,7 +287,7 @@ and/or vibration feedback on the gloves.
 |                    | Device Feedback: Assign glove LED Colour        |
 +--------------------+-------------------------------------------------+
 | LH Fist + Yaw      | Vocal effect control (7 total, one for each     |
-|                    | "scene" in Glover)                              |
+|                    | "scene" in *Glover*)                              |
 +--------------------+-------------------------------------------------+
 | LH Fist + Pitch    | Vocal effect control (7 total)                  |
 +--------------------+-------------------------------------------------+
@@ -383,7 +383,7 @@ immerse themselves in the sound.
 
 # Theatre versus "Real Life"  {#theatre-versus-real-life .First-Level-Headings}
 
-![Still taken from the installation and performance version of this work. A fixed video was manipulated by the amplitude of the audio. Visual effects are generated in Max by performing an absolute difference function on the original video and using `jit.sprinkle`, recolouring the particles displaced by `jit.sprinkle`, and finally mixing the output with the fixed media.](media/otmfn-screenshot.jpg)
+![Still taken from the installation and performance version of this work. A fixed video was manipulated by the amplitude of the audio. Visual effects are generated in *Max* by performing an absolute difference function on the original video and using `jit.sprinkle`, recolouring the particles displaced by `jit.sprinkle`, and finally mixing the output with the fixed media.](media/otmfn-screenshot.jpg)
 
 Thembi Soddell (2019) notes that trauma is felt well after the event is
 in the past, often without a direct connection to the initial event.
@@ -454,7 +454,7 @@ The glove data needs to be calibrated in each session to reset the zero
 positions and configure the flex sensor finger data.
 
 Surprisingly, familiarity with another similar system (self-built) did
-not meaningfully make the MiMu system easier to master. Mary Mainsbridge
+not meaningfully make the *MiMu* system easier to master. Mary Mainsbridge
 (2016) noted that gestural interface design favours technical and
 functional accomplishments over the engagement with the activity and
 development of kinaesthetic sensibility which are important in
@@ -469,7 +469,7 @@ example, "puppet hand" and fist) and multiple gestures can trigger when
 transitioning between gestures. There is no accelerometer/gyroscope
 machine learning built into the software, thus requiring additional
 software and processing which can be CPU intensive. The proxy for
-three-dimensional gesture capture in Glover (for example, a wave)
+three-dimensional gesture capture in *Glover* (for example, a wave)
 requires you to visually snapshot positions within the whole of that
 movement. It can make it harder to write precisely due to these factors
 and requires careful planning in routing the parameters and boundaries.
@@ -481,7 +481,7 @@ and would drag me out of any embodied state during practice.
 Gestures cannot be triggered without using the interface and it is a
 time-consuming process. In this piece, there was much planning prior to
 gesture assignment and during practices technical challenges would arise
-and generate barriers to embodied states. In this piece, I used a
+and generate barriers to embodied states. I used a
 relatively simple set of gestures to balance between functionality of
 performance and memory capabilities so that I could remain engaged in
 the sound control. The laboriousness of routing data does not contribute
@@ -551,7 +551,7 @@ lacks some creature comforts for ease of routing. The system is costly
 reducing its' accessibility to a range of artists. A reduced user base
 also reduces feedback and refinement on the system. One might be better
 served by building their own WIFI-enabled OSC gloves to work within
-Glover's infrastructure. The cost in the alternate solution is shifted
+*Glover*'s infrastructure. The cost in the alternate solution is shifted
 to time.
 
 Does this type of interface and routing encourage or enable an embodied
