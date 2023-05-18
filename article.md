@@ -41,7 +41,7 @@ number: 1
 article-no: 2
 date: '2021-10-31'
 accepted-date: '2023-04-19'
-published-date: 'YYYY-MM-DD'
+published-date: '2023-05-18'
 keywords: 'embodiment; gestural control; technologically mediated voice; extended vocal techniques'
 ---
 
