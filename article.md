@@ -287,7 +287,7 @@ and/or vibration feedback on the gloves.
 |                    | Device Feedback: Assign glove LED Colour        |
 +--------------------+-------------------------------------------------+
 | LH Fist + Yaw      | Vocal effect control (7 total, one for each     |
-|                    | "scene" in *Glover*)                              |
+|                    | "scene" in *Glover*)                            |
 +--------------------+-------------------------------------------------+
 | LH Fist + Pitch    | Vocal effect control (7 total)                  |
 +--------------------+-------------------------------------------------+
